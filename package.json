@@ -1,0 +1,16 @@
+{
+  "name": "prj_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "deploy":"gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "homepage":"https://gulcanc.github.io/PRJ_2",
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
